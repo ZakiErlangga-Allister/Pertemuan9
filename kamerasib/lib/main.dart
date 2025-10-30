@@ -2,6 +2,7 @@ import 'dart:async';
 import 'package:flutter/material.dart';
 import 'package:camera/camera.dart';
 
+
 // Fungsi main() asinkron untuk mengizinkan pengambilan kamera
 Future<void> main() async {
   // Pastikan binding Flutter telah diinisialisasi
